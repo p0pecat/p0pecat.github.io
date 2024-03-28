@@ -2,7 +2,7 @@ baseURL: https://p0pecat.github.io/
 languageCode: en-us
 title: pohst.club
 
-theme: ["PaperMod"]
+themesDir = "themes"
 
 params:
   homeInfoParams:
