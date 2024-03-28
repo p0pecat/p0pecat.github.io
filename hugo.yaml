@@ -7,7 +7,7 @@ theme: ["PaperMod"]
 params:
   homeInfoParams:
     Title: Hi, I'm Pohst!
-    Content: Welcome to my attempt at a blog!
+    Content: this sucks
 
   socialIcons: # optional
     - name: "twitter"
