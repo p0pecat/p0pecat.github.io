@@ -8,6 +8,9 @@ menu:
   main:
     - name: Archive
       url: archives
+      weight: 10
+    - name: 🔎
+      url: search
 
 
 # the shit
@@ -33,3 +36,9 @@ assets:
   favicon32x32: /static/assets/favicon.ico
 
 favicon: favicon.ico
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
