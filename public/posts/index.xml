@@ -13,7 +13,13 @@
       <link>http://localhost:1313/posts/aboutme/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/aboutme/</guid>
-      <description>Some info about me!</description>
+      <description>This article offers a brief description of who I am! &amp;lt; figure src=&amp;ldquo;https://source.unsplash.com/Z0lL0okYjy0&amp;quot; &amp;gt;
+Hello there, I&amp;rsquo;m Jack! I&amp;rsquo;m a high school student with a passion for all things tech!
+My favorite things to research are:
+OSINT Techiques
+Social Engineering
+Cybersecurity in General!
+I&amp;rsquo;m a complete beginner at all things cybersecurity, and after working through challenges and learning new things, I&amp;rsquo;ve been inspired to start documenting my progress so I can gain a better understanding of the topics I research.</description>
     </item>
   </channel>
 </rss>

@@ -12,6 +12,8 @@ Weight: 1
 ---
 ###  This article offers a brief description of who I am! 
 
+{{< figure src="https://source.unsplash.com/q86md0sqdBA" attr="Photo by [David Martin](https://unsplash.com/@davidmartinjr) on [Unsplash](https://unsplash.com/photos/cable-stayed-bridge-view-during-golden-hour-q86md0sqdBA)" align=center link="https://unsplash.com/photos/q86md0sqdBA" target="_blank" >}}
+
 Hello there, I'm Jack! I'm a high school student with a passion for all things tech!
 
 My favorite things to research are:
