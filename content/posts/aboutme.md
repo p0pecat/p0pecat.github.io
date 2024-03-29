@@ -2,7 +2,7 @@
 author: "Jack"
 title: "About Me"
 date: "2024-03-28"
-description: ""
+summary: This article offers a brief description of who I am!
 #cover: 
   #image: images/msg.png
   #caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
