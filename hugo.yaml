@@ -19,7 +19,7 @@ params:
   # winston overwatch
   socialIcons: # optional
     - name: "X"
-      url: "https://twitter.com/misteritter"
+      url: "https://twitter.com/pohsterchild"
     - name: "email"
       url: "mailto:admin@pohst.club"
 

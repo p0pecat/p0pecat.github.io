@@ -27,4 +27,4 @@ I'm a complete beginner at all things cybersecurity, and after working through c
 
 
 
-If you'd like to contact me, feel free to follow me on [Twitter](https://twitter.com/misteritter) or send me an email at [admin@pohst.club](maito:admin@pohst.club)!
+If you'd like to contact me, feel free to follow me on [Twitter](https://twitter.com/pohsterchild) or send me an email at [admin@pohst.club](maito:admin@pohst.club)!
