@@ -7,7 +7,7 @@ theme: ["PaperMod"]
 menu:
   main:
     - name: Archive
-    - url: https://pohst.club/archives
+      url: archives
 
 
 # the shit
