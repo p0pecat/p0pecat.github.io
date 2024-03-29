@@ -1,6 +1,30 @@
 baseURL: https://p0pecat.github.io/
 languageCode: en-us
 title: pohst.club
-
+paginate: 5
 theme: ["PaperMod"]
 
+
+# the shit
+params:
+  # home info
+  homeInfoParams:
+    Title: Hi, I'm Jack 👋
+    Content: >
+      A high school student with a passion for all things tech 💻
+
+      - I enjoy learning about OSINT, social engineering, and cybersecurity in general 🌐
+
+      - Welcome to my blog! 🎉
+  # winston overwatch
+  socialIcons: # optional
+    - name: "X"
+      url: "https://twitter.com/misteritter"
+    - name: "email"
+      url: "mailto:admin@pohst.club"
+
+# assets and such
+assets:
+  favicon32x32: /static/assets/favicon.ico
+
+favicon: favicon.ico
