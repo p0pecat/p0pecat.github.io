@@ -18,7 +18,7 @@ Hello there, I'm Jack! I'm a high school student with a passion for all things t
 
 My favorite things to research are:
 
-- OSINT Techiques 
+- OSINT Techniques 
 
 - Social Engineering
 
