@@ -3,3 +3,12 @@ languageCode: en-us
 title: pohst.club
 
 theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: Hi, I'm Jack!
+    Content: Welcome to my blog!
+
+  socialIcons: # optional
+    - name: "twitter"
+      url: "misteritter"
