@@ -11,6 +11,7 @@ menu:
       weight: 10
     - name: 🔎
       url: search
+      weight: 20
 
 
 # the shit
@@ -30,6 +31,8 @@ params:
       url: "https://twitter.com/pohsterchild"
     - name: "email"
       url: "mailto:admin@pohst.club"
+
+  
 
 # assets and such
 assets:

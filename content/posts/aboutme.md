@@ -9,10 +9,15 @@ summary: This article offers a brief description of who I am!
 ShowToc: false
 TocOpen: false
 Weight: 1
+cover:
+  image: "https://source.unsplash.com/q86md0sqdBA"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  alt: "<alt text>"
+  caption: "Photo by [David Martin](https://unsplash.com/@davidmartinjr) on [Unsplash](https://unsplash.com/photos/cable-stayed-bridge-view-during-golden-hour-q86md0sqdBA)"
+  relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 ###  This article offers a brief description of who I am! 
-
-{{< figure src="https://source.unsplash.com/q86md0sqdBA" attr="Photo by [David Martin](https://unsplash.com/@davidmartinjr) on [Unsplash](https://unsplash.com/photos/cable-stayed-bridge-view-during-golden-hour-q86md0sqdBA)" align=center link="https://unsplash.com/photos/q86md0sqdBA" target="_blank" >}}
 
 Hello there, I'm Jack! I'm a high school student with a passion for all things tech!
 
