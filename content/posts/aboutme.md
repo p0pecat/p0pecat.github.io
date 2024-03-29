@@ -16,6 +16,8 @@ cover:
   alt: "<alt text>"
   caption: "Photo by [David Martin](https://unsplash.com/@davidmartinjr) on [Unsplash](https://unsplash.com/photos/cable-stayed-bridge-view-during-golden-hour-q86md0sqdBA)"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
+params:
+  ShowShareButtons: true
 ---
 ###  This article offers a brief description of who I am! 
 
