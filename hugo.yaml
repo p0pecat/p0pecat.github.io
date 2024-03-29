@@ -4,6 +4,11 @@ title: pohst.club
 paginate: 5
 theme: ["PaperMod"]
 
+menu:
+  main:
+    - name: Archive
+    - url: archives
+
 
 # the shit
 params:
