@@ -22,7 +22,7 @@ params:
 ---
 ###  This article offers a brief description of who I am! 
 
-Hello there, I'm Jack! I'm a high school student with a passion for all things tech!
+Hello there, I'm Jack! I'm a high school student with a passion for all things tech! In my free time I enjoy playing golf, relaxing in the sun, and researching topics that interest me.
 
 My favorite things to research are:
 
